@@ -46,4 +46,4 @@ Create an elbow plot to identify the best number of clusters. Use a for-loop to 
 
 Recommendation
 
-Based on the T-SNE plot it appears that there is one large cluster of cryptocurrencies and 2 smaller ones. 
+Based on the T-SNE plot it appears that the cryptocurrencies currently trading on the market can be grouped into one large clusster and two smaller ones. 
