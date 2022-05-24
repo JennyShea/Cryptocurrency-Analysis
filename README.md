@@ -1,5 +1,6 @@
 Using data from CryptoCompare, identify which cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system.
 Data Preparation
+
 Read crypto_data.csv into Pandas. 
 ![image](https://user-images.githubusercontent.com/86893003/170097320-e537025e-ad14-4a47-b719-3a2c35b13ab9.png)
  
@@ -13,7 +14,8 @@ Convert the remaining features with text values, Algorithm and ProofType, to num
 ![image](https://user-images.githubusercontent.com/86893003/170097426-a2682b86-4e30-4ed4-aa5e-86bc942719c2.png)
 
 Standardize your dataset so that columns that contain larger values do not unduly influence the outcome.
-![image](https://user-images.githubusercontent.com/86893003/170097554-a6f5fcce-2363-448d-be3b-f2f4d3f79941.png)
+![image](https://user-images.githubusercontent.com/86893003/170098324-f84d3342-c831-4da1-8bb3-b2cb0464397b.png)
+
 
 Dimensionality Reduction
 ![image](https://user-images.githubusercontent.com/86893003/170097676-bd0aaec0-9fce-43e9-b39f-33b3c78794a4.png)
